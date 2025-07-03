@@ -1,2 +1,3 @@
-# gp-ueto-plus-mcp
-Created via GitHub MCP server for testing push issues
+# GP-UETO-plus-mcp
+
+This repository was created and pushed via GitHub MCP server.
