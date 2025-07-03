@@ -1,13 +1,13 @@
-# 2025-07-03 NMIBC Research Progress
+# NMIBC Prognostic Modeling — Daily Research Log (2025-07-03)
 
 ## Summary
-- Continued literature review on NMIBC risk stratification models.
-- Compared EORTC, CUETO, and new genomic models.
-- Outlined pretesting plan for the new model using local dataset.
-- Identified missing data issues and planned imputation strategy.
-- Set up initial scripts for data preprocessing in `src/`.
+- Focused on literature review for NMIBC (Non-Muscle Invasive Bladder Cancer) prognostic models.
+- Identified key clinical variables and molecular markers relevant for risk stratification.
+- Outlined initial data preprocessing steps for the local dataset.
+- Drafted plan for exploratory data analysis and feature engineering.
 
 ## Next Steps
-- Complete data cleaning and imputation.
-- Begin exploratory data analysis (EDA).
-- Draft protocol for pretesting phase.
+- Complete data cleaning and preprocessing.
+- Begin exploratory data analysis (EDA) in Jupyter notebooks.
+- Review recent publications for additional prognostic factors.
+- Set up Linear milestone: "Pretesting the model" and log progress.
